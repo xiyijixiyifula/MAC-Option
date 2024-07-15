@@ -12,3 +12,5 @@ mac 触控替代中需要长按option才能使用触控板
 运行option后等5秒钟在游戏窗口中，就可以启动option长按了。
 然后按esc可以中止程序运行。
 相当于替代了长按option。
+
+参考文章请看：https://zhuanlan.zhihu.com/p/708969924
