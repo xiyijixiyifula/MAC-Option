@@ -13,4 +13,3 @@ mac 触控替代中需要长按option才能使用触控板
 然后按esc可以中止程序运行。
 相当于替代了长按option。
 
-参考文章请看：https://zhuanlan.zhihu.com/p/708969924
